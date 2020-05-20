@@ -23,5 +23,5 @@ These are things I like to eat.
 
 5. Brownies
 
-![Picture of Brownies](images/brownies.jpeg = 200x)
+![Picture of Brownies](images/brownies.jpeg =200x)
 
