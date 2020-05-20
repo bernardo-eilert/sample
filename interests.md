@@ -4,19 +4,19 @@ Things I like to do:
 
 * Sailing
 
-![Picture of Sailing](sailing.jpg)
+![Picture of Sailing](images/sailing.jpg)
 
 
 * Books
 
-![Picture of books](books.jpg)
+![Picture of books](images/books.jpg)
 
 
 * Photography
 
-![Picture of photography](photography.jpg)
+![Picture of photography](images/photography.jpg)
 
 
 * Brazilian Food
 
-![Picture of brazilian food](brazilian.jpg)
+![Picture of brazilian food](images/brazilian.jpg)
