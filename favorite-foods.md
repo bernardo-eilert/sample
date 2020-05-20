@@ -4,24 +4,26 @@ These are things I like to eat.
 
 1. Fondue
 
-![Picture of Fondue](images/fondue.jpeg = 200x)
+<img src=images/fondue.jpeg width="300">
 
 
 2. Sushi
 
-![Picture of Sushi](images/sushi.jpeg = 200x)
+<img src=images/sushi.jpeg width="300">
+
 
 3. Brazilian Feijoada
 
-![Picture of Brazilian Feijoada](images/feijoada.jpeg = 200x)
+<img src=images/feijoada.jpeg width="300">
 
 
 4. Crepes
 
-![Picture of Crepes](images/crepes.jpeg = 200x)
+<img src=images/crepes.jpeg width="300">
 
 
 5. Brownies
 
-![Picture of Brownies](images/brownies.jpeg =200x)
+<img src=images/brownies.jpeg width="300">
+
 
